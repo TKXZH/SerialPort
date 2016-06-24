@@ -21,3 +21,8 @@ public class ComReader {
         }
     }
 }
+
+
+//纠正一些问题
+
+
